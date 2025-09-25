@@ -1,7 +1,7 @@
 #<rss version="2.0">
   <channel>
     <title>Lufthansa Cancellation Policy Support Listings</title>
-    <link>https://classifiedsforfree.com/d/10140833</link> <!-- You can link to a central page or the first listing -->
+    <link>https://www.myflightpolicy.com/</link> <!-- You can link to a central page or the first listing -->
     <description>Latest listings for Lufthansa Cancellation Policy Support services.</description>
     
     <item>
